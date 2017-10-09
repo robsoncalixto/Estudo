@@ -1,0 +1,15 @@
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\obj\Debug\EstudoTesteUnidade.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\EstudoTesteUnidade.pdb
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\obj\Debug\EstudoTesteUnidade.pdb
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\nunit.framework.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\nunit.framework.xml
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\nunit.engine.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\nunit.engine.api.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\Mono.Cecil.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\EstudoTesteUnidade.dll.config
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\bin\Debug\EstudoTesteUnidade.dll
+C:\Users\Bruna\Documents\Projetos\DotNet\EstudoTesteDeUnidade\TesteEstudo\EstudoTesteUnidade\obj\Debug\EstudoTesteUnidade.dll
