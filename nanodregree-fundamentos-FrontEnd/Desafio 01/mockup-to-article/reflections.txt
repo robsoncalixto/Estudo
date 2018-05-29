@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your 
+thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  Aprendi a separar por seções meu html com as novas tags do html5.
+  * What has been easy?
+  A estutura da página achei fácil.
+  * What has been difficult?
+  Não encontrei dificuldades para realizar a tarefa.
+  * How have you used the problem solving strategies from the first project to overcome challenges so 
+  far?
+  Mantive o foco para realizar a tarefa. Isto me ajudou a fazer e ao mesmo tempo aprender novas possibilidades 
+  de tags do html. Espero levar este foco para as demais atividades.
+
+---
+
+Your response goes here!
