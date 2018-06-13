@@ -1,0 +1,10 @@
+### instalar o mysql 
+*docker container exec -it api-mysql apt-get update && apt-get -y install mysql-server*
+
+### subir o mysql
+docker container exec -d api-mysql service mysql start or service mysql start
+
+### subir a aplicação 
+*docker container exec -d api-mysql java -jar usr/src/api/jar-cdc-react.jar*
+
+
