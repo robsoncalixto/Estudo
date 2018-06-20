@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './css/pure-min.css';
 import './css/side-menu.css';
-import AutorBox from './Autor';
-
+import { Link } from 'react-router';
 
 class App extends Component {
   constructor() {
@@ -12,26 +11,21 @@ class App extends Component {
   render() {
     return (     
             <main id="layout">
-              <a href="#menu" id="menuLink" className="menu-link"><span></span></a>
+              <a href="/" id="menuLink" className="menu-link"><span></span></a>
               <nav id="menu">
                   <div className="pure-menu">
                       <a className="pure-menu-heading" >Crud React</a>
                       <ul className="pure-menu-list">
-                          <li className="pure-menu-item"><a className="pure-menu-link">Home</a></li>
-                          <li className="pure-menu-item"><a  className="pure-menu-link">Autor</a></li>
-                          <li className="pure-menu-item"><a  className="pure-menu-link">Livro</a></li>
+                          <li className="pure-menu-item"><Link to="/" className="pure-menu-link">Home</Link></li>
+                          <li className="pure-menu-item"><Link to="/Autor" className="pure-menu-link">Autor</Link></li>
+                          <li className="pure-menu-item"><Link to="/Livro" className="pure-menu-link">Livro</Link></li>
                       </ul>
                   </div>
               </nav>
-              <header id="main">
-                  <div className="header">
-                      <h1>Autor</h1>
-                  </div>
-              </header>
-              <article className="content" id="content">
-                <AutorBox/>
-             </article>
-            </main>            
+              <div id="main">
+                {this.props.children}   
+              </div>
+             </main>            
           );
    }
 }
